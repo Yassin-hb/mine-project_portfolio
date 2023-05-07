@@ -1,0 +1,63 @@
+.body-pagethreee{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    /* background-color: #f1f8fc;   */
+    background: linear-gradient(#FFFFFF, #64BCF4);
+ }
+ .tatilee {
+    text-align: center;
+    
+}
+.tatilee P{
+    margin:0px ;
+}
+.tatilee h1{
+    text-align: center;
+    font-size: 30px;
+}
+.helloo{
+    position: absolute;
+    left: 50px;
+    margin-top: 120px;
+    font-size: 20px;
+ }
+.grey-bluee{
+    position: relative;
+    
+}
+.grey{
+    width: 270px;
+    height: 10px;
+    border-radius: 30px;
+    background-color: blue;
+    position: relative;
+    top: 0px;
+}
+.blue{
+    width: 200px;
+    height: 10px;
+    border-radius: 30px;
+    background-color: #C4C4C4;
+    position: relative;
+    top: -10px;
+ }
+ .grey-blue{
+    position: relative;
+    
+}
+.buttone-get{
+    width: 120px;
+    height: 40px;
+    background-color: #64BCF4;
+    border-radius: 11px;
+    position: relative;
+    top: 20px;
+ }
+ .image-about img{
+    width: 400px;
+    position: fixed;
+    right: 260px;
+    top: 120px;  
+}
